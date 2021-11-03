@@ -20,7 +20,7 @@
     "node-validator": "^0.1.27",
     "shortid": "^2.2.15",
     "validate": "^5.1.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
